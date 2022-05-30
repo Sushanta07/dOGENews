@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dOGENews/static/css/main.073c9b0a.css",
+    "main.js": "/dOGENews/static/js/main.58c8663a.js",
+    "static/js/787.ad550d85.chunk.js": "/dOGENews/static/js/787.ad550d85.chunk.js",
+    "static/media/loading.gif": "/dOGENews/static/media/loading.0bbec7d1ffc5ad9611af.gif",
+    "index.html": "/dOGENews/index.html",
+    "main.073c9b0a.css.map": "/dOGENews/static/css/main.073c9b0a.css.map",
+    "main.58c8663a.js.map": "/dOGENews/static/js/main.58c8663a.js.map",
+    "787.ad550d85.chunk.js.map": "/dOGENews/static/js/787.ad550d85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.58c8663a.js"
+  ]
+}
