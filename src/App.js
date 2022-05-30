@@ -9,7 +9,7 @@ import Alert from './components/Alert';
 
 const App = () => {
   const pageSize = 5;
-  const apiKey = process.env.REACT_APP_NEWS_API
+  const apiKey = 'b3a77322a7fd4a9aabeef4f9a8f3ca0e'
   const [progress, setProgress] = useState(0)
   const [mode, setMode] = useState('light');
   const [alert, setAlert] = useState(null);
